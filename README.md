@@ -43,6 +43,23 @@ _Malu, 20/09/2024_
   - Analisar padrões de gastos e compras de produtos
   - Recomendar medidas de economia
   - Auxiliar no acúmulo de dinheiro para objetivos financeiros
+ 
+    
+### Funcionalidades audaciosas
 
+- Consumir API de bancos como:
+  - Nubank
+  - Itaú
+  - Will
+  - Caixa
+  - Picpay
+  - C6
+  - Inter
+ 
+### Tecnologias utilizadas
+- Laravel
+- Vue.js
+- Vuetify
+- Firebase
   
 </div>
